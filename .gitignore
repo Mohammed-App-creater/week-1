@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+.env.*
+.env
+
+
+# Jupyter
+.ipynb_checkpoints
+
+
+# Data
+data/raw/
+data/processed/
+*.parquet
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Editor
+.vscode/
+.idea/
